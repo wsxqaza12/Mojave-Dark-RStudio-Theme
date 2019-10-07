@@ -329,7 +329,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 .ace_fold {
-  background-color: #FD7CB2;
+  background-color: #C87C58;
   border-color: #F8F8F2;
 }
 
@@ -653,12 +653,12 @@ div .gwt-Label.GD15MCFCF3 {
 }
 
 .ace_keyword {
-  color: #FD7CB2;
+  color: #C87C58;
 
 }
 
 .ace_keyword.ace_operator {
-  color: #FD7CB2;
+  color: #C87C58;
 
 }
 
